@@ -2,6 +2,8 @@
 
 ### Publications
 
+[L. Gottesbüren, M. Hamann, S. Schlag, D. Wagner. Advanced Flow-Based Multilevel Hypergraph Partitioning. In 18th International Symposium on Experimental Algorithms (SEA), 2020.](https://drops.dagstuhl.de/opus/volltexte/2020/12085/pdf/LIPIcs-SEA-2020-11.pdf)
+
 [T. Heuer, P. Sanders, and S. Schlag. Network Flow-Based Refinement for Multilevel Hypergraph
 Partitioning, ACM Journal of Experimental Algorithmics (JEA), Special Issue SEA 2018, Volume 24 Issue 1, 2019.](https://dl.acm.org/doi/10.1145/3329872)
 

@@ -2,6 +2,10 @@
 
 ### Publications
 
+[L. Gottesbüren, T. Heuer, P. Sanders, S. Schlag. Scalable Shared-Memory Hypergraph Partitioning. In 23rd Workshop on Algorithm Engineering and Experiments (ALENEX), 2021.](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976472.2)
+
+[M. Popp, S. Schlag, C. Schulz, D. Seemaier. Multilevel Acyclic Hypergraph Partitioning. In 23rd Workshop on Algorithm Engineering and Experiments (ALENEX), 2021.](https://locus.siam.org/doi/pdf/10.1137/1.9781611976472.1)
+
 [L. Gottesbüren, M. Hamann, S. Schlag, D. Wagner. Advanced Flow-Based Multilevel Hypergraph Partitioning. In 18th International Symposium on Experimental Algorithms (SEA), 2020.](https://drops.dagstuhl.de/opus/volltexte/2020/12085/pdf/LIPIcs-SEA-2020-11.pdf)
 
 [T. Heuer, P. Sanders, and S. Schlag. Network Flow-Based Refinement for Multilevel Hypergraph

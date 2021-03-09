@@ -2,6 +2,8 @@
 
 ### Publications
 
+[T. Heuer, N. Maas, S. Schlag. Multilevel Hypergraph Partitioning with Vertex Weights Revisited. In 19th International Symposium on Experimental Algorithms (SEA), 2021.](https://sea2021.i3s.unice.fr)
+
 [L. Gottesbüren, T. Heuer, P. Sanders, S. Schlag. Scalable Shared-Memory Hypergraph Partitioning. In 23rd Workshop on Algorithm Engineering and Experiments (ALENEX), 2021.](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976472.2)
 
 [M. Popp, S. Schlag, C. Schulz, D. Seemaier. Multilevel Acyclic Hypergraph Partitioning. In 23rd Workshop on Algorithm Engineering and Experiments (ALENEX), 2021.](https://locus.siam.org/doi/pdf/10.1137/1.9781611976472.1)

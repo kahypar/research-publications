@@ -24,6 +24,8 @@ Partitioning, ACM Journal of Experimental Algorithmics (JEA), Special Issue SEA 
 [S. Schlag, V. Henne, T. Heuer, H. Meyerhenke, P. Sanders, and C. Schulz. k-way Hypergraph Partitioning via n-Level Recursive Bisection. In 18th Workshop on Algorithm Engineering and Experiments (ALENEX), pages 53–67, 2016.](https://epubs.siam.org/doi/abs/10.1137/1.9781611974317.5)
 
 ### Technical Reports
+[S. Schlag, T. Heuer, L. Gottesbüren, Y. Akhremtsev, C. Schulz, P. Sanders. High-Quality Hypergraph Partitioning, arXiv: 2106.08696, 2021.](https://arxiv.org/abs/2106.08696)
+
 [L. Gottesbüren, T. Heuer, P. Sanders, S. Schlag. Shared-Memory n-level Hypergraph Partitioning. arXiv:2104.08107, 2021.](https://arxiv.org/abs/2104.08107)
 
 [T. Heuer, N. Maas, S. Schlag. Multilevel Hypergraph Partitioning with Vertex Weights Revisited. arXiv:2102.01378, 2021.](https://arxiv.org/abs/2102.01378)

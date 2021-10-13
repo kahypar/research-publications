@@ -2,6 +2,8 @@
 
 ### Publications
 
+[L. Gottesbüren, T. Heuer, P. Sanders, S. Schlag. Shared-Memory n-level Hypergraph Partitioning. SIAM Symposium on Algorithm Engineering and Experiments, to appear, 2022.](https://www.siam.org/conferences/cm/program/accepted-papers/alenex22-accepted-papers)
+
 [T. Heuer, N. Maas, S. Schlag. Multilevel Hypergraph Partitioning with Vertex Weights Revisited. In 19th International Symposium on Experimental Algorithms (SEA), 2021.](https://drops.dagstuhl.de/opus/volltexte/2021/13780/)
 
 [L. Gottesbüren, T. Heuer, P. Sanders, S. Schlag. Scalable Shared-Memory Hypergraph Partitioning. In 23rd Workshop on Algorithm Engineering and Experiments (ALENEX), 2021.](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976472.2)
